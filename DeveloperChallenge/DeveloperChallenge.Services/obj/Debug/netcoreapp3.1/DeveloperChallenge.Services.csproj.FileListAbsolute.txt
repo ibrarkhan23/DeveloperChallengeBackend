@@ -1,0 +1,25 @@
+D:\DeveloperChallenge\DeveloperChallenge.Services\bin\Debug\netcoreapp3.1\DeveloperChallenge.Services.deps.json
+D:\DeveloperChallenge\DeveloperChallenge.Services\bin\Debug\netcoreapp3.1\DeveloperChallenge.Services.dll
+D:\DeveloperChallenge\DeveloperChallenge.Services\bin\Debug\netcoreapp3.1\DeveloperChallenge.Services.pdb
+D:\DeveloperChallenge\DeveloperChallenge.Services\bin\Debug\netcoreapp3.1\DeveloperChallenge.Models.dll
+D:\DeveloperChallenge\DeveloperChallenge.Services\bin\Debug\netcoreapp3.1\DeveloperChallenge.Models.pdb
+D:\DeveloperChallenge\DeveloperChallenge.Services\obj\Debug\netcoreapp3.1\DeveloperChallenge.Services.csproj.AssemblyReference.cache
+D:\DeveloperChallenge\DeveloperChallenge.Services\obj\Debug\netcoreapp3.1\DeveloperChallenge.Services.AssemblyInfoInputs.cache
+D:\DeveloperChallenge\DeveloperChallenge.Services\obj\Debug\netcoreapp3.1\DeveloperChallenge.Services.AssemblyInfo.cs
+D:\DeveloperChallenge\DeveloperChallenge.Services\obj\Debug\netcoreapp3.1\DeveloperChallenge.Services.csproj.CoreCompileInputs.cache
+D:\DeveloperChallenge\DeveloperChallenge.Services\obj\Debug\netcoreapp3.1\DeveloperChallenge.Services.csproj.CopyComplete
+D:\DeveloperChallenge\DeveloperChallenge.Services\obj\Debug\netcoreapp3.1\DeveloperChallenge.Services.dll
+D:\DeveloperChallenge\DeveloperChallenge.Services\obj\Debug\netcoreapp3.1\DeveloperChallenge.Services.pdb
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge.Services\bin\Debug\netcoreapp3.1\DeveloperChallenge.Services.deps.json
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge.Services\bin\Debug\netcoreapp3.1\DeveloperChallenge.Services.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge.Services\bin\Debug\netcoreapp3.1\DeveloperChallenge.Services.pdb
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge.Services\bin\Debug\netcoreapp3.1\DeveloperChallenge.Models.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge.Services\bin\Debug\netcoreapp3.1\DeveloperChallenge.Models.pdb
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge.Services\obj\Debug\netcoreapp3.1\DeveloperChallenge.Services.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge.Services\obj\Debug\netcoreapp3.1\DeveloperChallenge.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge.Services\obj\Debug\netcoreapp3.1\DeveloperChallenge.Services.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge.Services\obj\Debug\netcoreapp3.1\DeveloperChallenge.Services.AssemblyInfo.cs
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge.Services\obj\Debug\netcoreapp3.1\DeveloperChallenge.Services.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge.Services\obj\Debug\netcoreapp3.1\DeveloperChallenge.Services.csproj.CopyComplete
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge.Services\obj\Debug\netcoreapp3.1\DeveloperChallenge.Services.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge.Services\obj\Debug\netcoreapp3.1\DeveloperChallenge.Services.pdb

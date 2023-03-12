@@ -1,0 +1,92 @@
+D:\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\appsettings.json
+D:\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\DeveloperChallenge.exe
+D:\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\DeveloperChallenge.deps.json
+D:\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\DeveloperChallenge.runtimeconfig.json
+D:\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\DeveloperChallenge.runtimeconfig.dev.json
+D:\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\DeveloperChallenge.dll
+D:\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\DeveloperChallenge.pdb
+D:\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\DeveloperChallenge.Models.dll
+D:\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\DeveloperChallenge.Services.dll
+D:\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\DeveloperChallenge.Models.pdb
+D:\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\DeveloperChallenge.Services.pdb
+D:\DeveloperChallenge\DeveloperChallenge\obj\Debug\netcoreapp3.1\DeveloperChallenge.csproj.AssemblyReference.cache
+D:\DeveloperChallenge\DeveloperChallenge\obj\Debug\netcoreapp3.1\DeveloperChallenge.AssemblyInfoInputs.cache
+D:\DeveloperChallenge\DeveloperChallenge\obj\Debug\netcoreapp3.1\DeveloperChallenge.AssemblyInfo.cs
+D:\DeveloperChallenge\DeveloperChallenge\obj\Debug\netcoreapp3.1\DeveloperChallenge.csproj.CoreCompileInputs.cache
+D:\DeveloperChallenge\DeveloperChallenge\obj\Debug\netcoreapp3.1\DeveloperChallenge.MvcApplicationPartsAssemblyInfo.cache
+D:\DeveloperChallenge\DeveloperChallenge\obj\Debug\netcoreapp3.1\DeveloperChallenge.RazorTargetAssemblyInfo.cache
+D:\DeveloperChallenge\DeveloperChallenge\obj\Debug\netcoreapp3.1\DeveloperChallenge.csproj.CopyComplete
+D:\DeveloperChallenge\DeveloperChallenge\obj\Debug\netcoreapp3.1\staticwebassets\DeveloperChallenge.StaticWebAssets.Manifest.cache
+D:\DeveloperChallenge\DeveloperChallenge\obj\Debug\netcoreapp3.1\staticwebassets\DeveloperChallenge.StaticWebAssets.xml
+D:\DeveloperChallenge\DeveloperChallenge\obj\Debug\netcoreapp3.1\DeveloperChallenge.dll
+D:\DeveloperChallenge\DeveloperChallenge\obj\Debug\netcoreapp3.1\DeveloperChallenge.pdb
+D:\DeveloperChallenge\DeveloperChallenge\obj\Debug\netcoreapp3.1\DeveloperChallenge.genruntimeconfig.cache
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\DeveloperChallenge.exe
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\DeveloperChallenge.deps.json
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\DeveloperChallenge.runtimeconfig.json
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\DeveloperChallenge.runtimeconfig.dev.json
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\DeveloperChallenge.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\DeveloperChallenge.pdb
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\DeveloperChallenge.Models.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\DeveloperChallenge.Services.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\DeveloperChallenge.Models.pdb
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\bin\Debug\netcoreapp3.1\DeveloperChallenge.Services.pdb
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\obj\Debug\netcoreapp3.1\DeveloperChallenge.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\obj\Debug\netcoreapp3.1\DeveloperChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\obj\Debug\netcoreapp3.1\DeveloperChallenge.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\obj\Debug\netcoreapp3.1\DeveloperChallenge.AssemblyInfo.cs
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\obj\Debug\netcoreapp3.1\DeveloperChallenge.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\obj\Debug\netcoreapp3.1\DeveloperChallenge.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\obj\Debug\netcoreapp3.1\DeveloperChallenge.RazorAssemblyInfo.cache
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\obj\Debug\netcoreapp3.1\DeveloperChallenge.RazorAssemblyInfo.cs
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\obj\Debug\netcoreapp3.1\DeveloperChallenge.RazorTargetAssemblyInfo.cache
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\obj\Debug\netcoreapp3.1\DeveloperChallenge.csproj.CopyComplete
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\obj\Debug\netcoreapp3.1\DeveloperChallenge.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\obj\Debug\netcoreapp3.1\DeveloperChallenge.pdb
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge\obj\Debug\netcoreapp3.1\DeveloperChallenge.genruntimeconfig.cache

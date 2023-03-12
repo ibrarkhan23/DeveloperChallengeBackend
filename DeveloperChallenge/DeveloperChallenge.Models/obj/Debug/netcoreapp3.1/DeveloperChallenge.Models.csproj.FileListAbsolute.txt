@@ -1,0 +1,19 @@
+D:\DeveloperChallenge\DeveloperChallenge.Models\bin\Debug\netcoreapp3.1\DeveloperChallenge.Models.deps.json
+D:\DeveloperChallenge\DeveloperChallenge.Models\bin\Debug\netcoreapp3.1\DeveloperChallenge.Models.dll
+D:\DeveloperChallenge\DeveloperChallenge.Models\bin\Debug\netcoreapp3.1\DeveloperChallenge.Models.pdb
+D:\DeveloperChallenge\DeveloperChallenge.Models\obj\Debug\netcoreapp3.1\DeveloperChallenge.Models.csproj.AssemblyReference.cache
+D:\DeveloperChallenge\DeveloperChallenge.Models\obj\Debug\netcoreapp3.1\DeveloperChallenge.Models.AssemblyInfoInputs.cache
+D:\DeveloperChallenge\DeveloperChallenge.Models\obj\Debug\netcoreapp3.1\DeveloperChallenge.Models.AssemblyInfo.cs
+D:\DeveloperChallenge\DeveloperChallenge.Models\obj\Debug\netcoreapp3.1\DeveloperChallenge.Models.csproj.CoreCompileInputs.cache
+D:\DeveloperChallenge\DeveloperChallenge.Models\obj\Debug\netcoreapp3.1\DeveloperChallenge.Models.dll
+D:\DeveloperChallenge\DeveloperChallenge.Models\obj\Debug\netcoreapp3.1\DeveloperChallenge.Models.pdb
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge.Models\bin\Debug\netcoreapp3.1\DeveloperChallenge.Models.deps.json
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge.Models\bin\Debug\netcoreapp3.1\DeveloperChallenge.Models.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge.Models\bin\Debug\netcoreapp3.1\DeveloperChallenge.Models.pdb
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge.Models\obj\Debug\netcoreapp3.1\DeveloperChallenge.Models.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge.Models\obj\Debug\netcoreapp3.1\DeveloperChallenge.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge.Models\obj\Debug\netcoreapp3.1\DeveloperChallenge.Models.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge.Models\obj\Debug\netcoreapp3.1\DeveloperChallenge.Models.AssemblyInfo.cs
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge.Models\obj\Debug\netcoreapp3.1\DeveloperChallenge.Models.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge.Models\obj\Debug\netcoreapp3.1\DeveloperChallenge.Models.dll
+C:\Users\PC\Desktop\New folder (2)\DeveloperChallenge\DeveloperChallenge.Models\obj\Debug\netcoreapp3.1\DeveloperChallenge.Models.pdb
